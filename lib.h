@@ -1,1 +1,1 @@
-bool numero primo (int n);
+int numero primo (int n);
