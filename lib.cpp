@@ -16,5 +16,4 @@ bool funzione (int n) {
     else{
         return false;
     }
-
 }
