@@ -5,8 +5,8 @@ bool funzione (int n) {
     if(n>1)
         do{
             i++;
-            x=n%i;
-        }while(x);
+           x=n%i;
+          }while(x);
     if(i==n){
 
         return true;
